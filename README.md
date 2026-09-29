@@ -1,54 +1,74 @@
-# Feintt.ai Case Study
+# Hen Livgot - Technical Program & Product Operations Portfolio
 
-## Overview
+This repository documents my transition from PMO and Scrum Master work in complex engineering execution into Technical Program Management, R&D Delivery, Product Operations, and AI/ML Program Management.
 
-Feintt.ai is a handball data, media, and scouting platform. This case study documents the work as a Technical Program / Product Operations portfolio project.
+The goal is not to present myself as a software developer. The goal is to show how I think, plan, document, monitor, and lead technical delivery across product, engineering, QA, data, AI, and operations.
 
-The goal is to demonstrate practical capability in managing a software, data, and AI product:
+## Positioning
 
-- Product strategy
-- Data ingestion
-- AI-assisted content workflows
-- Human review and governance
-- Release readiness
-- KPI tracking
-- Risk and dependency management
-- Technical stakeholder communication
+I help product and engineering teams turn ambiguity into executable plans:
 
-## Product Vision
+- Define the problem, scope, success metrics, and decision owners.
+- Translate product intent into delivery plans, dependencies, risks, and milestones.
+- Build operating rhythms for sprint readiness, release readiness, and executive reporting.
+- Track technical and operational risk before it becomes delivery failure.
+- Connect product, engineering, QA, data, support, and business stakeholders through practical artifacts.
 
-Build the handball data layer for scouting, transfers, media intelligence, and club decision-making.
+## Flagship Case Study
 
-Initial focus:
+### Feintt.ai - Handball Data, Media, and Scouting Platform
 
-- Germany as the first market.
-- Player, club, league, match, news, transfer, and scouting intelligence.
-- Review workflows that separate verified information from rumors and weak signals.
+Feintt.ai is the main portfolio project used in this repository. It is a practical case study for managing a software/data/AI product from idea to delivery.
 
-## Why This Is Relevant To Technical Program Management
+The case study will document:
 
-Feintt.ai creates a realistic delivery environment:
+- Product strategy and problem framing.
+- SDLC and roadmap planning.
+- Data ingestion and data-quality governance.
+- AI-assisted news/media workflows.
+- Entity review and human-in-the-loop approval.
+- Release readiness and production safety.
+- Metrics, dashboards, risks, and decision logs.
 
-- Multiple data sources and reliability issues.
-- Product requirements that change as the market is learned.
-- AI workflows that need evaluation and human approval.
-- Production risks around data quality, trust, and publishing.
-- Cross-functional thinking across product, data, engineering, media, and business.
+Start here: [Feintt.ai Case Study](./case-studies/feintt-ai/README.md)
 
-## Case Study Map
+## Repository Structure
 
-| Artifact | Purpose |
+| Area | Purpose |
 |---|---|
-| [Program Charter](./program-charter.md) | Define scope, success, stakeholders, and operating rhythm |
-| [Delivery Roadmap](./delivery-roadmap.md) | Translate product goals into phases and milestones |
-| [System Context](./system-context.md) | Explain the system without pretending to be a developer |
-| [RAID Log](./raid-log.md) | Track risks, assumptions, issues, and dependencies |
-| [Decision Log](./decision-log.md) | Document major decisions and tradeoffs |
-| [Release Readiness](./release-readiness.md) | Define go/no-go criteria |
-| [AI Evaluation Plan](./ai-evaluation-plan.md) | Define quality controls for AI workflows |
-| [Executive Status Report](./executive-status-report.md) | Show how progress is reported to leadership |
+| `case-studies/feintt-ai` | Main applied portfolio project |
+| `operating-model` | My Technical PM / Product Ops operating system |
+| `templates` | Reusable delivery artifacts |
+| `dashboards` | KPI and health-report definitions |
+| `course-log` | Learning plan, course outputs, and evidence |
 
-## Current Portfolio Claim
+## Core Artifacts
 
-This is not presented as employment experience at a technology company. It is a founder-led product initiative and applied portfolio project used to demonstrate technical program thinking in a realistic software/data/AI environment.
+- Program charter
+- Product and technical roadmap
+- Stakeholder map
+- RAID log
+- Decision log
+- Dependency map
+- Release readiness checklist
+- AI evaluation plan
+- KPI dashboard specification
+- Executive status report
+- Post-launch review
+
+## Learning Path Connected to This Portfolio
+
+The portfolio will be built while completing the following learning path:
+
+1. IBM IT Project Manager
+2. Software Product Management
+3. IBM Product Owner, selective modules
+4. Technical preparation: Git, GitHub, terminal, Python basics, Docker basics
+5. DataTalksClub LLM Zoomcamp
+
+Each course must produce at least one artifact that improves this repository. Certificates are secondary. Evidence is primary.
+
+## Transparency
+
+Some artifacts are based on real initiatives I am building. Some are simulation artifacts created for portfolio purposes. Each case study should clearly state which parts are real implementation, learned material, or professional simulation.
 
